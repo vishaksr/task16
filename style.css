@@ -1,0 +1,17 @@
+
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 250px;
+    background-color:royalblue;
+    border: 2px solid greenyellow;
+    font-size: large;
+}
+#timeout{
+    color:black;
+}
+*{
+    background-color: blueviolet;
+}
